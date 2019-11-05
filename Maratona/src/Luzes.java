@@ -8,7 +8,6 @@ public class Luzes {
 		scanner.close();
 	}
 	public static void init() {
-		//noia salvou
 		while(true){
 			int salas = scanner.nextInt();
 			if(salas==0) {
